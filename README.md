@@ -16,4 +16,6 @@ O ambiente pode ser acessado no http://localhost
 
 Na pasta `/lumen` execute em seu terminal:  ./vendor/bin/phpunit
 
-## Collection de Postman na raiz
+## Postman
+
+Collection de Postman na raiz
